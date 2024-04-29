@@ -92,6 +92,7 @@ int main() {
         printf("\t\t\t");
     }
 }
+```
 
 2. Steps to run
 ```sh
